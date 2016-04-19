@@ -1,0 +1,9 @@
+info:
+  build:
+    artifact: '@project.artifactId@'
+    groupId: '@project.groupId@'
+    artifactId: '@project.artifactId@'
+    version: '@project.version@'
+  application:
+    name: '@project.name@'
+    description: '@project.description@'
